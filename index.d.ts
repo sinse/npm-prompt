@@ -1,6 +1,3 @@
-// Type definition for prompt 1.0.0
-// Project : https://github.com/flatiron/prompt
-
 import {EventEmitter} from 'events';
 
 declare module 'prompt' {

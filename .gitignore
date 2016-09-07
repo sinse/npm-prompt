@@ -8,6 +8,6 @@ typings
 # npm cache directory
 .npm
 
-# output folder
-out
+# build
+bundle.d.ts
 
