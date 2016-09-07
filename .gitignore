@@ -1,0 +1,13 @@
+# Logs
+*.log
+
+# Dependencies folder
+node_modules
+typings
+
+# npm cache directory
+.npm
+
+# output folder
+out
+

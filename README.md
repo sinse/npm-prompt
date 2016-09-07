@@ -1,2 +1,6 @@
-# npm-prompt
-Typings for prompt
+# Typed prompt
+The type definition for prompt
+
+# License
+MIT
+

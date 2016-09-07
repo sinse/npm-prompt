@@ -1,0 +1,15 @@
+{
+  "name": "typings-npm-prompt",
+  "version": "1.0.0",
+  "description": "Typescript typings for prompt",
+  "author": "Bruno Salesses <https://github.com/sinse>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinse/npm-prompt/issues"
+  },
+  "homepage": "https://github.com/sinse/npm-prompt#readme",
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4"
+  }
+}
