@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "main": "index.d.ts",
     "globalDependencies": {
-        "node": "registry:dt/node#6.0.0+20160907103612"
+        "node": "registry:env/node#6.0.0+20160622202520"
     }
 }
